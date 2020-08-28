@@ -290,5 +290,6 @@ trainerr_fourtermHFCS, testerr_fourtermHFCS, index1_fourtermHFCS, index2_fourter
 trainerr_fourterm, testerr_fourterm, index1_fourterm, index2_fourterm, index3_fourterm, index4_fourterm, coef_fourterm, intercept_fourterm, \
            prediction_fourterm, index_mintest,index_mintrain = quadoptimal(AllSugar,percentobese,lag)
 
-def calculateAIC():
-    sig =
+
+'# test test test'
+
